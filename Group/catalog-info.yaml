@@ -7,7 +7,7 @@ spec:
   type: business-unit
   profile:
     displayName: Lancelot
-    email: infrastructure@example.com
+    email: sudhanshusah2001@gmail.com
     picture: https://example.com/groups/bu-infrastructure.jpeg
   parent: ops
   children: [backstage, other]
